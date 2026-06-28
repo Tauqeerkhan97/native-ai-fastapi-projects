@@ -1,4 +1,4 @@
-# Native AI FastAPI Projects
+# Native AI FastAPI Projects 
 
 Two production-style FastAPI backends built to practice real-world backend architecture: an agentic task management system and an internal documentation API — both with authentication, database integration, service-layer design, and automated tests.
 
@@ -86,6 +86,5 @@ This verifies that both apps import correctly, connect to their databases, and c
 - Running **multiple independent services** from one repository with Docker Compose
 - Writing **integration-style tests** that exercise real database operations, not just route responses
 
-## Notes
 
 This project was built as part of a backend architecture exercise (see `Exercise_1.2_Team_Architecture_Workshop.md`) focused on designing scalable, team-friendly FastAPI systems.
