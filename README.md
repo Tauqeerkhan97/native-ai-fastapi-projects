@@ -88,3 +88,5 @@ This verifies that both apps import correctly, connect to their databases, and c
 
 
 This project was built as part of a backend architecture exercise (see `Exercise_1.2_Team_Architecture_Workshop.md`) focused on designing scalable, team-friendly FastAPI systems.
+
+This project is on journey
