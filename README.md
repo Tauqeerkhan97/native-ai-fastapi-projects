@@ -53,7 +53,7 @@ native-ai-fastapi-projects/
 └── Exercise_1.2_Team_Architecture_Workshop.md
 ```
 
-## Running locally
+## Running locally 
 
 Clone the repo and set up each app independently, or use Docker Compose to run both together.
 
@@ -77,10 +77,10 @@ Repeat the same steps inside `doc-api/` on a different port to run it alongside.
 ```bash
 python test_both_apps.py
 ```
+
 This verifies that both apps import correctly, connect to their databases, and complete a basic create-and-assign workflow end to end.
 
 ## What this project demonstrates
-
 - Structuring a FastAPI backend with a proper **service layer** instead of putting logic directly in route handlers
 - **Authentication fundamentals** — password hashing, user management
 - Running **multiple independent services** from one repository with Docker Compose
@@ -89,3 +89,5 @@ This verifies that both apps import correctly, connect to their databases, and c
 
 This project was built as part of a backend architecture exercise (see `Exercise_1.2_Team_Architecture_Workshop.md`) focused on designing scalable, team-friendly FastAPI systems.
 
+Aurthor:
+TauqeerKhan
